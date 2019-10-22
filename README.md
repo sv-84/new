@@ -1,0 +1,2 @@
+# new
+Developing like hobby
